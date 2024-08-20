@@ -1,0 +1,14 @@
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/bin/Debug/net8.0/DesafioProjetoHospedagem
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/bin/Debug/net8.0/DesafioProjetoHospedagem.deps.json
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/bin/Debug/net8.0/DesafioProjetoHospedagem.runtimeconfig.json
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/bin/Debug/net8.0/DesafioProjetoHospedagem.dll
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/bin/Debug/net8.0/DesafioProjetoHospedagem.pdb
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.dll
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/refint/DesafioProjetoHospedagem.dll
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.pdb
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/Users/priscilaflorentino/Documents/Backup/Educação/Full Stack/Projetos/trilha-net-explorando-desafio-main/obj/Debug/net8.0/ref/DesafioProjetoHospedagem.dll
