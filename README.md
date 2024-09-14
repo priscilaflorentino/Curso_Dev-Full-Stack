@@ -8,9 +8,9 @@ Desde o início do curso revisei/ aprendi os seguintes tópicos:
 - linguagem de programação C#
 - desenvolvimento de pequenas aplicações backend 
 - desenvolvimento de API's
-
+- fundamentos básicos do Microsoft Azure
+- 
 Ainda falta passar pelos próximos tópicos:
 - aplicação de testes
 - programação front-end com React
-- programação na nuvem Microsoft Azure
 
