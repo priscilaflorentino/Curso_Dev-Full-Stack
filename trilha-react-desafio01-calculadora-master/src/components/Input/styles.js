@@ -11,7 +11,6 @@ export const InputContainer = styled.div`
 
     font-size: 24px;
     font-family: 'Roboto';
-    
 
     input {
         width: 100%;
@@ -22,8 +21,10 @@ export const InputContainer = styled.div`
         flex-direction: column;
         align-items: flex-end;
         padding: 0 10px;
+
         font-size: 24px;
         font-family: 'Roboto';
         color: #FFFFFF;
     }
 `
+
